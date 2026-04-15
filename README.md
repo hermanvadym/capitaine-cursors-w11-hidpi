@@ -163,13 +163,6 @@ Result:               No scaling needed → PIXEL-PERFECT ✅
 
 ### Dark Variant (Recommended for Light Backgrounds)
 - Thicker, bolder black/dark strokes
-🎨 Visual Showcase
-
-See **[SHOWCASE.md](SHOWCASE.md)** for:
-- Before/after comparisons at different scales
-- Display scenario walkthroughs (4K, 150% scaling, ultrawide)
-- Variant comparisons
-- How resolution layers work visually
 
 ---
 
