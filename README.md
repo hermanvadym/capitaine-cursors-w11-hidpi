@@ -20,7 +20,17 @@ This is a professional adaptation of [**Capitaine Cursors**](https://github.com/
 
 Done! Your cursors are now sharp at any zoom level.
 
-**Quick links:** [📖 Full Guide](INSTALL.md) • [🔧 Technical Details](TECHNICAL.md) • [🎨 Visual Showcase](SHOWCASE.md)
+**Quick links:** [📖 Full Guide](INSTALL.md) • [🔧 Technical Details](TECHNICAL.md)
+
+---
+
+## 👁️ Preview
+
+![Capitaine Cursors Preview](https://raw.githubusercontent.com/keeferrourke/capitaine-cursors/master/preview.png)
+
+The Capitaine Cursors come in a beautiful, minimalist design. This Windows 11 HiDPI adaptation maintains the original aesthetic while adding sharp, multi-resolution support for modern high-DPI displays.
+
+*Preview from the original [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) project.*
 
 ---
 
@@ -151,15 +161,7 @@ Result:               No scaling needed → PIXEL-PERFECT ✅
 
 ### Dark Variant (Recommended for Light Backgrounds)
 - Thicker, bolder black/dark strokes
-- High contrast on light wallpapers
-- Gaming-friendly, very visible
-- Better for accessibility
-
-Both include all cursor states and animated cursors.
-
----
-
-## 🎨 Visual Showcase
+🎨 Visual Showcase
 
 See **[SHOWCASE.md](SHOWCASE.md)** for:
 - Before/after comparisons at different scales
@@ -232,4 +234,23 @@ No more blurry cursors. No more pixelation. Just sharp, professional-looking cur
 
 ---
 
-**Made with ❤️ for Windows 11 users with high-DPI displays**
+**MadGet Started Today
+
+No more blurry cursors. No more pixelation. Just sharp, professional-looking cursors at any display scale.
+
+[**📥 Download Latest Release**](../../releases/latest)
+
+---
+
+## 💝 Support This Project
+
+If you find this cursor theme useful and would like to support its development, consider donating:
+
+**Popular donation platforms:**
+- **[PayPal](https://www.paypal.com/donate/?hosted_button_id=2QYLT6G8RJMNY)** — Direct donationquired
+- **[Buy Me a Coffee](https://buymeacoffee.com)** — One-time or recurring
+- **[PayPal](https://www.paypal.com)** — Direct payment option
+- **[GitHub Sponsors](https://github.com/sponsors)** — Support directly on GitHub
+- **[Patreon](https://www.patreon.com)** — Monthly recurring support
+
+*Note: This project is free and open source. Donations are entirely optional and greatly appreciated.
