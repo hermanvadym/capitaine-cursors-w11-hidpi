@@ -26,11 +26,13 @@ Done! Your cursors are now sharp at any zoom level.
 
 ## 👁️ Preview
 
-![Capitaine Cursors Preview](https://raw.githubusercontent.com/keeferrourke/capitaine-cursors/master/preview.png)
+### Light Variant
+![Capitaine Cursors Light](https://raw.githubusercontent.com/keeferrourke/capitaine-cursors/master/preview-light.png)
 
-The Capitaine Cursors come in a beautiful, minimalist design. This Windows 11 HiDPI adaptation maintains the original aesthetic while adding sharp, multi-resolution support for modern high-DPI displays.
+### Dark Variant
+![Capitaine Cursors Dark](https://raw.githubusercontent.com/keeferrourke/capitaine-cursors/master/preview-dark.png)
 
-*Preview from the original [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) project.*
+*Preview images from the original [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) project.*
 
 ---
 
@@ -173,10 +175,8 @@ See **[SHOWCASE.md](SHOWCASE.md)** for:
 
 ## 📚 Learn More
 
-- **[INSTALL.md](INSTALL.md)** — Complete installation guide + detailed troubleshooting
-- **[TECHNICAL.md](TECHNICAL.md)** — How the HiDPI solution works under the hood
-- **[SHOWCASE.md](SHOWCASE.md)** — Visual demonstrations and scenarios
-- **[ATTRIBUTION.md](ATTRIBUTION.md)** — Credits and original sources
+- **[Installation Guide](INSTALL.md)** — Complete installation instructions + troubleshooting
+- **[Technical Deep Dive](TECHNICAL.md)** — How the HiDPI fix works under the hood
 
 ---
 
@@ -226,31 +226,23 @@ See [LICENSE](LICENSE) and [COPYING](COPYING) for full text.
 
 ---
 
-## ✨ Enjoy Sharp, Beautiful Cursors on Windows 11!
+## ☕ Buy Me a Coffee
 
-No more blurry cursors. No more pixelation. Just sharp, professional-looking cursors at any display scale.
+If you find this cursor theme useful and want to support its development:
 
-[**Get Started →**](../../releases/latest)
+**[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=2QYLT6G8RJMNY)**
+
+*Your support helps maintain and improve this project. Thank you!*
 
 ---
 
-**MadGet Started Today
+## ✨ Get Started Today
 
 No more blurry cursors. No more pixelation. Just sharp, professional-looking cursors at any display scale.
 
 [**📥 Download Latest Release**](../../releases/latest)
-
----
-
-## 💝 Support This Project
-
-If you find this cursor theme useful and would like to support its development, consider donating:
-
-**Popular donation platforms:**
-- **[PayPal](https://www.paypal.com/donate/?hosted_button_id=2QYLT6G8RJMNY)** — Direct donationquired
 - **[Buy Me a Coffee](https://buymeacoffee.com)** — One-time or recurring
 - **[PayPal](https://www.paypal.com)** — Direct payment option
 - **[GitHub Sponsors](https://github.com/sponsors)** — Support directly on GitHub
 - **[Patreon](https://www.patreon.com)** — Monthly recurring support
 
-*Note: This project is free and open source. Donations are entirely optional and greatly appreciated.
