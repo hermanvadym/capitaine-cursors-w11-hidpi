@@ -108,7 +108,6 @@ Result:               No scaling needed → PIXEL-PERFECT ✅
 ✅ **Complete Documentation**
 - Installation guide with troubleshooting
 - Technical deep-dive on HiDPI architecture
-- Visual showcase and comparisons
 
 ✅ **Easy Installation**
 - `install.inf` for automatic Windows Registry integration
@@ -199,7 +198,7 @@ Licensed under **GNU Lesser General Public License (LGPL) v3 or later**
 - Attribute original Capitaine Cursors authors
 - License modifications under the same license
 
-See [LICENSE](LICENSE) and [COPYING](COPYING) for full text.
+See [COPYING](COPYING) for full text.
 
 ---
 
