@@ -87,7 +87,7 @@ Result:               No scaling needed → PIXEL-PERFECT ✅
 | **Installation** | Manual registry hacking | ✅ One right-click (install.inf) |
 | **Variants** | Limited options | ✅ Light + Dark |
 | **Open source** | Varies | ✅ LGPL v3 licensed |
-| **Based on** | Unknown origin | ✅ Beautiful Capitaine design |
+| **Based on** | Unknown origin | ✅ KDE Breeze (via Capitaine Cursors) |
 
 ---
 
