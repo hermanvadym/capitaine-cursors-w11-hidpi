@@ -1,9 +1,9 @@
 # Capitaine Cursors for Windows 11 (HiDPI Optimized)
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](./LICENSE)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](./COPYING)
 [![Windows 11](https://img.shields.io/badge/Windows-11-0078D4.svg)](https://www.microsoft.com/windows/windows-11)
 [![HiDPI Support](https://img.shields.io/badge/HiDPI-7%20Scales-green.svg)](./TECHNICAL.md)
-[![Cursor Variants](https://img.shields.io/badge/Variants-Light%20%7C%20Dark-orange.svg)]()
+[![Cursor Variants](https://img.shields.io/badge/Variants-Light%20%7C%20Dark-orange.svg)](./README.md#-themes--variants)
 
 **Stop blurry cursors on Windows 11.** Sharp, pixel-perfect cursors optimized for high-resolution displays, ultrawide monitors, and scaled laptops.
 
