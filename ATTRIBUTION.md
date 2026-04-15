@@ -44,7 +44,7 @@ See [COPYING](COPYING) for the full license text.
 ## Contributors
 
 Original design: Keefer Rourke and contributors to Capitaine Cursors  
-Windows 11 HiDPI Adaptation: [Your GitHub username]
+Windows 11 HiDPI Adaptation: hermanvadym
 
 ---
 
