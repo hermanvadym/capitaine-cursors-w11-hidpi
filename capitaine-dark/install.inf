@@ -1,0 +1,51 @@
+; Right click on this file in Windows Explorer and select "Install".
+; Then, run `main.cpl` and select the cursor theme "Capitaine Dark HiDPI".
+
+[Version]
+Signature = "$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%arrow%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%wait%,%10%\%CUR_DIR%\%crosshair%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%size_ns%,%10%\%CUR_DIR%\%size_ew%,%10%\%CUR_DIR%\%size_nwse%,%10%\%CUR_DIR%\%size_nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%up_arrow%,%10%\%CUR_DIR%\%link%,,"
+
+[Scheme.Cur]
+arrow.cur
+help.cur
+working.ani
+wait.ani
+crosshair.cur
+text.cur
+pen.cur
+unavailable.cur
+size_ns.cur
+size_ew.cur
+size_nwse.cur
+size_nesw.cur
+move.cur
+up_arrow.cur
+link.cur
+
+[Strings]
+CUR_DIR = "Cursors\Capitaine Dark HiDPI"
+SCHEME_NAME = "Capitaine Dark HiDPI"
+arrow = "arrow.cur"
+help = "help.cur"
+working = "working.ani"
+wait = "wait.ani"
+crosshair = "crosshair.cur"
+text = "text.cur"
+pen = "pen.cur"
+unavailable = "unavailable.cur"
+size_ns = "size_ns.cur"
+size_ew = "size_ew.cur"
+size_nwse = "size_nwse.cur"
+size_nesw = "size_nesw.cur"
+move = "move.cur"
+up_arrow = "up_arrow.cur"
+link = "link.cur"
