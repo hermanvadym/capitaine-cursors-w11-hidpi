@@ -236,13 +236,3 @@ If you find this cursor theme useful and want to support its development:
 
 ---
 
-## ✨ Get Started Today
-
-No more blurry cursors. No more pixelation. Just sharp, professional-looking cursors at any display scale.
-
-[**📥 Download Latest Release**](../../releases/latest)
-- **[Buy Me a Coffee](https://buymeacoffee.com)** — One-time or recurring
-- **[PayPal](https://www.paypal.com)** — Direct payment option
-- **[GitHub Sponsors](https://github.com/sponsors)** — Support directly on GitHub
-- **[Patreon](https://www.patreon.com)** — Monthly recurring support
-

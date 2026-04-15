@@ -1,18 +1,18 @@
-# Visual Showcase: Capitaine Cursors HiDPI
+# Supported Displays & Resolution Scales
 
-This page demonstrates the clarity improvement of multi-resolution cursors on Windows 11 displays with scaling.
+This guide explains how the multi-resolution cursor support works across different display scenarios and scaling configurations.
 
-## The Difference: Blurry vs. Sharp
+## How Multi-Resolution Cursors Work
 
 ### Display Scaling at 150% (48×48 pixels)
 
-**Before (Standard Single-Resolution Cursor):**
+**Standard Single-Resolution Cursor:**
 - Windows stretches 32×32 px → 48×48 px
 - Linear interpolation causes blurriness
 - Jagged edges on diagonal elements
 - Hard to see text cursor precisely
 
-**After (This Project: Multi-Resolution):**
+**This Project (Multi-Resolution):**
 - Cursor rendered natively at 48×48 px
 - Pixel-perfect edges
 - Anti-aliasing applied at intended resolution
