@@ -216,15 +216,4 @@ See [COPYING](COPYING) for full text.
 - [**KDE Breeze**](https://github.com/KDE/breeze) — Icon design foundation
 - [**La Capitaine Icons**](https://github.com/keeferrourke/la-capitaine-icon-theme) — Companion icon theme
 
----
-
-## ☕ Buy Me a Coffee
-
-If you find this cursor theme useful and want to support its development:
-
-**[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=2QYLT6G8RJMNY)**
-
-*Your support helps maintain and improve this project. Thank you!*
-
----
 
